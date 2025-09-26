@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishu</h1>
-<h3 align="center">A passionate fullstack developer and enthusiast</h3>
+<h3 align="center">A passionate Solutions architect and tech enthusiast</h3>
 <h3 align="center"><img src="https://github.com/vadayuhsiv/file/blob/main/gitgirl.gif" width="500" height="400" /></h3>
 
 
